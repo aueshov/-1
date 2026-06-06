@@ -1,0 +1,6 @@
+pybit
+ntplib
+python-telegram-bot
+requests
+pandas
+numpy
